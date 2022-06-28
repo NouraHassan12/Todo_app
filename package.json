@@ -1,6 +1,6 @@
 {
   "homepage": "https://NouraHassan12.github.io/Todo_app/",
-  "name": "react-todos-code-challenge",
+  "name": "todo_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
